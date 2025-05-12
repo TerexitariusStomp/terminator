@@ -73,7 +73,7 @@ Get up and running with Terminator:
 4.  **Run an example client (in a separate terminal):**
     Navigate to the example directory, install dependencies, and run:
     ```bash
-    cd examples/hello-world
+    cd terminator/examples/hello-world
     npm i
     npm run dev
     # Then, open http://localhost:3000 in your browser
